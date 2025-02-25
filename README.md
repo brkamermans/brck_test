@@ -1,6 +1,7 @@
 # brck_test
 testing 
 
-##Purpose
+# Purpose
 -create a remote repo on github
+
 -practice git
