@@ -8,6 +8,9 @@ testing
 
 ## Git Workflow
 
+-practiced adding collaborator
+-practiced commits and push
+
 ## Authors
 
 - Brandi Kamermans
