@@ -6,9 +6,7 @@ testing
 
 -practice git
 
-# additions
-
-hello brandi
+## Git Workflow
 
 ## Authors
 
