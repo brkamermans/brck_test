@@ -6,11 +6,11 @@ testing
 
 -create a remote repo on github
 
--practice git
+-practice git 
 
 ## Git Workflow
 
--practiced adding collaborator 
+-practiced adding collaborator
 
 -practiced commits and push
 
