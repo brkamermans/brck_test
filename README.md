@@ -6,7 +6,7 @@ testing
 
 -create a remote repo on github
 
--practice git
+-practice git 
 
 ## Git Workflow
 
