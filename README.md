@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # brck_test: Mia and Brandi
+=======
+# brck_test: Mia B :)
 
 testing
 
